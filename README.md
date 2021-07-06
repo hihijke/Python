@@ -7,5 +7,6 @@
 
 
 #### _Завантаження pip на ПК_
+!(https://imgur.com/a/JKJ6dTP)
 
 
