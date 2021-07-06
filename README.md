@@ -15,7 +15,7 @@
 #### _Завантажені модулі_
 !(https://imgur.com/a/zHXhR1C)
 
-# SHH
+# Git SHH Key
 
 #### _ключ SHH_
 !(https://imgur.com/a/0rrmJNX)
