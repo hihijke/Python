@@ -24,13 +24,13 @@
 ![image](https://user-images.githubusercontent.com/86786170/124709971-cc934980-df04-11eb-9256-03f1846db9ea.png)
 
 #### _Клонування_
-![image](https://user-images.githubusercontent.com/86786170/124711069-47a92f80-df06-11eb-8f21-63ec9a6f9fbf.png)
+![image](https://user-images.githubusercontent.com/86786170/124746918-16425b00-df2a-11eb-8d0b-183a3068a3b8.png)
 
-![image](https://user-images.githubusercontent.com/86786170/124711292-922aac00-df06-11eb-8a41-46e7885e8162.png)
+![image](https://user-images.githubusercontent.com/86786170/124746970-22c6b380-df2a-11eb-8bfc-400ece442d34.png)
 
-![image](https://user-images.githubusercontent.com/86786170/124713242-f9496000-df08-11eb-9984-23557447aefa.png)
+![image](https://user-images.githubusercontent.com/86786170/124747020-2f4b0c00-df2a-11eb-86d8-ea39e1af9ac8.png)
 
-![image](https://user-images.githubusercontent.com/86786170/124713295-09613f80-df09-11eb-98b4-ab2ca6e0da8c.png)
+
 
 
 
