@@ -6,19 +6,19 @@
 # Програма
 Программа знаходить максимальне значення, і його індексу за допомогою рандому ( від -100 до 100 ).
 
-!(https://imgur.com/a/uAAcca7)
+![image](https://user-images.githubusercontent.com/86786170/124710061-eaf94500-df04-11eb-9444-a14ac9a3f8e8.png)
 
 Команда виводить всю інформацію на екран.
 
-!(https://imgur.com/a/d21brUB)
+![image](https://user-images.githubusercontent.com/86786170/124710096-f482ad00-df04-11eb-8fb1-f51a3b898319.png)
 
 Від'ємні числа.
 
-!(https://imgur.com/a/lGnwKuQ)
+![image](https://user-images.githubusercontent.com/86786170/124710108-fb112480-df04-11eb-9914-d8355d21beb4.png)
 
 Результат:
 
-!(https://imgur.com/a/F18wA6H)
+![image](https://user-images.githubusercontent.com/86786170/124710127-02d0c900-df05-11eb-9228-bb5d144eec67.png)
 
 
 
@@ -30,18 +30,18 @@
 # Програма
 Программа знаходить максимальне значення, і його індексу за допомогою рандому ( від -100 до 100 ).
 
-!((https://imgur.com/a/uAAcca7)
+![image](https://user-images.githubusercontent.com/86786170/124710144-09f7d700-df05-11eb-9360-650991b00cec.png)
 
 Максимальний елемент.
 
-!(https://imgur.com/a/O0XVGtw)
+![image](https://user-images.githubusercontent.com/86786170/124710170-13813f00-df05-11eb-9036-bb21a8c0a9a9.png)
 
 Від'ємні числа.
 
-!(https://imgur.com/a/lGnwKuQ)
+![image](https://user-images.githubusercontent.com/86786170/124710191-19772000-df05-11eb-96de-a931fbeb24d5.png)
 
 Результат:
 
-!(https://imgur.com/a/AkIMm2K)
+![image](https://user-images.githubusercontent.com/86786170/124710221-2431b500-df05-11eb-9235-13839fa67e2c.png)
 
 
