@@ -26,3 +26,6 @@
 #### _Клонування_
 ![image](https://user-images.githubusercontent.com/86786170/124711069-47a92f80-df06-11eb-8f21-63ec9a6f9fbf.png)
 
+![image](https://user-images.githubusercontent.com/86786170/124711292-922aac00-df06-11eb-8a41-46e7885e8162.png)
+
+
