@@ -7,7 +7,7 @@
 
 
 #### _Завантаження pip на ПК_
-!(https://imgur.com/a/JKJ6dTP)
+!(![image](https://user-images.githubusercontent.com/86786170/124709773-8f2ebc00-df04-11eb-8465-44a82b5296ec.png))
 
 #### _Завантаження додаткових модулів_
 !(https://imgur.com/a/Sz2Ecrt)
