@@ -23,7 +23,7 @@
 #### _Встановив ключ_
 ![image](https://user-images.githubusercontent.com/86786170/124709971-cc934980-df04-11eb-9256-03f1846db9ea.png)
 
-#### _Клонування_
+#### _Коміти_
 ![image](https://user-images.githubusercontent.com/86786170/124746918-16425b00-df2a-11eb-8d0b-183a3068a3b8.png)
 
 ![image](https://user-images.githubusercontent.com/86786170/124746970-22c6b380-df2a-11eb-8bfc-400ece442d34.png)
