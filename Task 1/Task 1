@@ -1,1 +1,74 @@
+print('-'*50)
+
+String = input("Input your string : ")
+Numbers = ''
+Words = ''
+length=len(String)
+print('-'*50)
+print('String : ' + String)
+
+for i in range(length):
+    j=String[i]
+    if '0' <= j <= '9':
+        Numbers+=j
+        i+=1
+    else:
+        Words+=j
+        i+=1
+Words+=' '
+print('-'*50)
+print('Numbers : ' + Numbers)
+print('String without numbers : ' + Words)
+i=0
+MaxNumber=0
+
+for i in range(len(Numbers)):
+    if '0' <= Numbers[i] <= '9':
+        j=int(Numbers[i])
+        if j>MaxNumber:
+            MaxNumber=j
+            i+=1
+        else:
+            i+=1
+            continue
+    else:
+        i+=1
+        continue
+Numbers2=''
+i=0
+
+for i in range(len(Numbers)):
+    if '0' <= Numbers[i] <= '9':
+         j=int(Numbers[i])
+         if j!=MaxNumber:
+              Numbers2+=str(j**i)+' '
+              i+=1
+         else:
+              continue
+    else:
+        i+=1
+        continue
+print('-'*50)
+
+print('Max number : ' + str(MaxNumber))
+print('Numbers x**x without max : ' + Numbers2)
+print('-'*50)
+
+StringUpper=''
+l=0
+i=0
+
+for i in range(len(Words)-1):
+    j=Words[i+1]
+    if j==' ':
+        StringUpper+=Words[l].upper()
+        StringUpper+=Words[l+1:i]
+        StringUpper+=Words[i].upper()+' '
+        l=i+2
+        i+=1
+    else:
+        i+=1
+print('String with upper : ' + StringUpper)
+print('-'*50)
+input()
 
