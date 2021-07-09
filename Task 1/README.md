@@ -30,4 +30,4 @@
 
 ![image](https://user-images.githubusercontent.com/86786170/124955055-65b68300-e01f-11eb-84e1-e34312668a18.png)
 
-# Коміти
+
