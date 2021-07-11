@@ -31,3 +31,8 @@
 
 2-їчна система:
 
+![image](https://user-images.githubusercontent.com/86786170/125202335-d954cc00-e27b-11eb-9f7b-6e7b87d100db.png)   ![image](https://user-images.githubusercontent.com/86786170/125202349-e40f6100-e27b-11eb-83a5-45648c212ada.png)
+
+
+
+
