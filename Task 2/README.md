@@ -29,3 +29,5 @@
 
 ![image](https://user-images.githubusercontent.com/86786170/125202277-8d098c00-e27b-11eb-88e4-518a5d33312a.png)
 
+2-їчна система:
+
