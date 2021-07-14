@@ -14,7 +14,7 @@
 
 Кнопка "Обновити" обновляє дані, та якщо є щось нове то їх добавляє.
 
-![image](https://user-images.githubusercontent.com/86786170/125631075-35682788-6ae9-4d11-af3b-b814f66221dd.png)
+![image](https://user-images.githubusercontent.com/86786170/125631241-1df59be1-bdea-43b5-820f-151b879fb8a2.png)
 
 Якщо нічого немає то:
 
