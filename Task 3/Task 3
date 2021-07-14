@@ -82,7 +82,7 @@ def Refresh():
         TextBox.insert('1.0', list(json[i].items())[2])
         TextBox.insert('1.0', '\n')
         TextBox.insert('1.0', '=' * 30)
-Refreshbutton = Button(frametop, text="ОБНОВИТИ",command=Обновити)
+Refreshbutton = Button(frametop, text="ОБНОВИТИ",command=Refresh)
 Refreshbutton['bg']='black'
 Refreshbutton['fg']='white'
 Refreshbutton.pack(side=LEFT)
@@ -90,7 +90,7 @@ EntryCountry = Entry(frametop, width=50, borderwidth=5)
 EntryCountry['bg']='black'
 EntryCountry['fg']='white'
 EntryCountry.pack(side=LEFT)
-Searchbutton = Button(frametop, text="ПОШУК", command=Пошук)
+Searchbutton = Button(frametop, text="ПОШУК", command=Search)
 Searchbutton.pack(side=LEFT)
 Searchbutton['bg']='black'
 Searchbutton['fg']='white'
