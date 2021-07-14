@@ -12,3 +12,12 @@
 
 ![image](https://user-images.githubusercontent.com/86786170/125630659-9ffb26e2-fc1e-48ec-b47d-9362b9ee89ef.png)
 
+Кнопка "Обновити" обновляє дані, та якщо є щось нове то їх добавляє.
+
+![image](https://user-images.githubusercontent.com/86786170/125631075-35682788-6ae9-4d11-af3b-b814f66221dd.png)
+
+Якщо нічого немає то:
+
+![image](https://user-images.githubusercontent.com/86786170/125630878-3f4ff6c8-23b2-4ae5-9f4f-8b3daf9d7ee3.png)
+
+
