@@ -19,3 +19,7 @@
 ![image](https://user-images.githubusercontent.com/86786170/125789927-4ed8cc18-e793-40d8-947b-5668a2e574ec.png)
 
 Інформація завжди оновлюється.
+
+Повний скрін мого бота.
+![image](https://user-images.githubusercontent.com/86786170/125790072-f2fd9804-2ccc-4012-8513-2db70415b438.png)
+
