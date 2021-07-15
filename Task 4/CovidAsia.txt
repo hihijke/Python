@@ -1,1 +1,181 @@
-
+==============================
+Country : India
+Continent : Asia
+Total Cases : 30987880
+Total Deaths : 412019
+Total Recovered : 30143850
+==============================
+Country : Turkey
+Continent : Asia
+Total Cases : 5500151
+Total Deaths : 50367
+Total Recovered : 5365075
+==============================
+Country : Iran
+Continent : Asia
+Total Cases : 3464055
+Total Deaths : 86592
+Total Recovered : 3086017
+==============================
+Country : Indonesia
+Continent : Asia
+Total Cases : 2726803
+Total Deaths : 70192
+Total Recovered : 2176412
+==============================
+Country : Philippines
+Continent : Asia
+Total Cases : 1490665
+Total Deaths : 26314
+Total Recovered : 1418856
+==============================
+Country : Iraq
+Continent : Asia
+Total Cases : 1457192
+Total Deaths : 17677
+Total Recovered : 1326073
+==============================
+Country : Bangladesh
+Continent : Asia
+Total Cases : 1071774
+Total Deaths : 17278
+Total Recovered : 905807
+==============================
+Country : Pakistan
+Continent : Asia
+Total Cases : 981392
+Total Deaths : 22689
+Total Recovered : 916373
+==============================
+Country : Malaysia
+Continent : Asia
+Total Cases : 880782
+Total Deaths : 6613
+Total Recovered : 765800
+==============================
+Country : Israel
+Continent : Asia
+Total Cases : 848674
+Total Deaths : 6443
+Total Recovered : 836859
+==============================
+Country : Japan
+Continent : Asia
+Total Cases : 827772
+Total Deaths : 14990
+Total Recovered : 791751
+==============================
+Country : Jordan
+Continent : Asia
+Total Cases : 759025
+Total Deaths : 9864
+Total Recovered : 741540
+==============================
+Country : Nepal
+Continent : Asia
+Total Cases : 662570
+Total Deaths : 9463
+Total Recovered : 626468
+==============================
+Country : UAE
+Continent : Asia
+Total Cases : 654813
+Total Deaths : 1880
+Total Recovered : 632775
+==============================
+Country : Lebanon
+Continent : Asia
+Total Cases : 548972
+Total Deaths : 7881
+Total Recovered : 534768
+==============================
+Country : Saudi Arabia
+Continent : Asia
+Total Cases : 504960
+Total Deaths : 8020
+Total Recovered : 486011
+==============================
+Country : Kazakhstan
+Continent : Asia
+Total Cases : 472106
+Total Deaths : 4816
+Total Recovered : 420984
+==============================
+Country : Georgia
+Continent : Asia
+Total Cases : 382734
+Total Deaths : 5503
+Total Recovered : 362491
+==============================
+Country : Kuwait
+Continent : Asia
+Total Cases : 380699
+Total Deaths : 2158
+Total Recovered : 360746
+==============================
+Country : Thailand
+Continent : Asia
+Total Cases : 372215
+Total Deaths : 3032
+Total Recovered : 266127
+==============================
+Country : Azerbaijan
+Continent : Asia
+Total Cases : 337602
+Total Deaths : 4988
+Total Recovered : 330946
+==============================
+Country : Palestine
+Continent : Asia
+Total Cases : 315409
+Total Deaths : 3585
+Total Recovered : 310239
+==============================
+Country : Oman
+Continent : Asia
+Total Cases : 289042
+Total Deaths : 3498
+Total Recovered : 263752
+==============================
+Country : Sri Lanka
+Continent : Asia
+Total Cases : 279059
+Total Deaths : 3611
+Total Recovered : 253014
+==============================
+Country : Bahrain
+Continent : Asia
+Total Cases : 267505
+Total Deaths : 1378
+Total Recovered : 265129
+==============================
+Country : Armenia
+Continent : Asia
+Total Cases : 226949
+Total Deaths : 4556
+Total Recovered : 218022
+==============================
+Country : Qatar
+Continent : Asia
+Total Cases : 223780
+Total Deaths : 599
+Total Recovered : 221665
+==============================
+Country : Myanmar
+Continent : Asia
+Total Cases : 208357
+Total Deaths : 4181
+Total Recovered : 151442
+==============================
+Country : S. Korea
+Continent : Asia
+Total Cases : 173511
+Total Deaths : 2050
+Total Recovered : 156509
+==============================
+Country : Kyrgyzstan
+Continent : Asia
+Total Cases : 144958
+Total Deaths : 2143
+Total Recovered : 121760
+==============================
